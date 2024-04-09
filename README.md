@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋 My name is Vlad
+## I specialize in front-end development, but I also do back-end
+# **Front-end**
+### +TypeScript
+### +JavaScript
+### +React
+### +Next.js
+### +Redux, Redux Toolkit, Redux Toolkit Query
 
 <!--
 **Saivelin/Saivelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
