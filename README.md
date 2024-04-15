@@ -1,5 +1,9 @@
 # Hi there 👋 My name is Vlad
 ## I specialize in front-end development, but I also do back-end
+##A more detailed portfolio with a description of the projects: 
+<a href="https://drive.google.com/drive/folders/1IjciTqi3trpn2V3R326ybPRl59fXblJn?usp=drive_link" target="_blank">
+  https://drive.google.com/drive/folders/1IjciTqi3trpn2V3R326ybPRl59fXblJn?usp=drive_link
+</a> 
 # **Front-end**
 <!--
 - TypeScript
